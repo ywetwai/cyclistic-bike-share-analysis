@@ -21,3 +21,5 @@ This project analyzes bike-share usage data from Cyclistic (May 2020) to uncover
 
 ## Tableau Interactive Dashboard
 📊 [Click Here to View Interactive Tableau Dashboard](https://public.tableau.com/views/CyclisticBike-ShareCaseStudyAnalysis/TotalRidesbyUserType?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+💾 **[Click Here to Download Cleaned Dataset on Kaggle](https://www.kaggle.com/datasets/ywetnuwai/cyclistic-bike-share-cleaned-dataset)**

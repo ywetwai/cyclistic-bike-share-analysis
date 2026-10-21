@@ -20,4 +20,4 @@ This project analyzes bike-share usage data from Cyclistic (May 2020) to uncover
 * **In-App Prompts:** Trigger membership conversion offers when casual riders log long-duration rides.
 
 ## Tableau Interactive Dashboard
-📊 **[Click Here to View Interactive Tableau Dashboard]((https://public.tableau.com/app/profile/ywet.nu.wai/viz/CyclisticBike-ShareCaseStudyAnalysis/TotalRidesbyUserType))**
+📊 **[Click Here to View Interactive Tableau Dashboard]([(https://public.tableau.com/app/profile/ywet.nu.wai/viz/CyclisticBike-ShareCaseStudyAnalysis/TotalRidesbyUserType)](https://public.tableau.com/views/CyclisticBike-ShareCaseStudyAnalysis/TotalRidesbyUserType?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
